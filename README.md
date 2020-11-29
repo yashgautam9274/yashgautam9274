@@ -9,6 +9,11 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+ ## Stats
+![](https://komarev.com/ghpvc/?username=yashgautam9274&color=grey) <p align = "center">
+![Yash's github stats](https://github-readme-stats.vercel.app/api?username=yashgautam9274&count_private=true&include_all_commits=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashgautam9274&layout=compact&theme=tokyonight&hide=&show=python,c++)
+
 <h2 align="center" >Let's Connect 😃</h2>
 <div align="center">
 <a href="https://www.linkedin.com/in/yash-gautam-0773b7200" target="_blank">
